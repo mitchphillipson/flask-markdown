@@ -33,10 +33,10 @@ setup(
         'Flask',
         'Markdown',
         ],
-    test_suite="nose.collector",
-    tests_require=[
-        'nose',
-        ],
+    #test_suite="nose.collector",
+    #tests_require=[
+    #    'nose',
+    #    ],
     classifiers=[
         'Development Status :: 4 - Beta',
         'Environment :: Web Environment',
