@@ -32,6 +32,7 @@ setup(
     install_requires=[
         'Flask',
         'Markdown',
+        'setuptools',
         ],
     #test_suite="nose.collector",
     #tests_require=[
